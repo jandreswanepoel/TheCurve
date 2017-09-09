@@ -18,4 +18,6 @@ int main()
 void printYay()
 {
 	std::cout << "YES!!!" <<std::endl;
+	return 0;
+    //wow KAte lyk actually legit !!
  }
