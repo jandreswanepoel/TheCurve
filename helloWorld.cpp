@@ -17,5 +17,5 @@ int main()
 
 void printYay()
 {
-	std::cout << "Yay" <<std::endl;
+	std::cout << "YES!!!" <<std::endl;
  }
